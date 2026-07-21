@@ -1,9 +1,9 @@
-package game;
+package RockPaperScissorsGame;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class Game {
+public class rockpaperscissors {
     public static void main(String [] args){
 
         String playerChoice;
